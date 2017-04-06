@@ -5,10 +5,10 @@
      id    = "com.phonegap.example2"  
      version  = "1.0.0">  
 	 
-   <name> app2 telefonia celular en Maxico </name>  
+   <name> app3 Contaminacion </name>  
    
    <description>  
-     Aplicacion que muestra informacion sobre la telefonia celular
+     Aplicacion que muestra la contaminacion del planeta
    </description>  
    
    <author href="https://build.phonegap.com" email="solvazquez135@gmail.com.com">  
